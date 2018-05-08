@@ -1,4 +1,4 @@
-# Analytics-Vidhya---Knoctober
+# Analytics-Vidhya---Knocktober
 2nd place solution
 
 ### Approach:
